@@ -24,13 +24,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/hilal-durmaz/" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="hilalldurmaz@gmail.com" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
+<div align="left" display="flex">
+  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilal-durmaz/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hilalldurmaz@gmail.com)
+
 </div>
 
 ###
