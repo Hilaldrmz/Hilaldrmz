@@ -1,4 +1,4 @@
-<h3 align="left">🛠 Language and tools</h3>
+## Language and tools</h3>
 
 ###
 
@@ -20,15 +20,15 @@
 
 ###
 
-<h3 align="left">🌐 Socials</h3>
+## Connect with me  
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/hilal-durmaz/" target="_blank">
+  <a href="https://www.linkedin.com/in/hilal-durmaz/" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="hilalldurmaz@gmail.com" target="_blank">
+  <a href="hilalldurmaz@gmail.com" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
